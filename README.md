@@ -1,14 +1,10 @@
 <img src="Legacy%20Sodium/src/main/resources/assets/sodium/icon.png" width="128"><img src="LegacyIris/src/main/resources/assets/iris/icon.png" width="128">
 
-# 1.16.5镁的汉化
+# 1.16.5 铷，镁的汉化
 ![GitHub license](https://img.shields.io/github/license/Someone-Else-Was-Taken/Periodic-Table-Reforged.svg)
 ![GitHub issues](https://img.shields.io/github/issues/Someone-Else-Was-Taken/Periodic-Table-Reforged.svg)
 
-Old Repository for my ports of the CaffeineMC and Iris Modset. This will stay up until I copy the issues over to the new Repositories.
-
----
-
-## CaffeineMC
+## Fabric版原作者：CaffeineMC
 
 Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium
 
@@ -16,40 +12,30 @@ Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium
 
 Phosphor - https://www.curseforge.com/minecraft/mc-mods/phosphor
 
-Hydrogen - https://www.modrinth.com/mod/hydrogen
-
 ## Iris Team
 
 Iris - https://www.curseforge.com/minecraft/mc-mods/irisshaders
 
-## Port Downloads
+## Forge移植版原作者：
 
-https://www.curseforge.com/members/someoneelsewastaken/projects
+https://github.com/Asek3
+https://www.curseforge.com/members/someoneelsewastaken/projects [作者已摆烂，故转用Aesk3大佬的铷]
 
-Sodium -> Magnesium
+Sodium -> Rubidium
 
-Lithium -> Roadrunner by MaxNeedsSnacks (https://www.curseforge.com/minecraft/mc-mods/roadrunner)
+Lithium -> Roadrunner
+by MaxNeedsSnacks (https://www.curseforge.com/minecraft/mc-mods/roadrunner)
 
-Phosphor -> Sulfuric
+Phosphor -> Radon
 
-Hydrogen -> Helium
-
-Iris -> Pupil
+Iris -> Oculus
 
 ---
 
-## Special Thanks & Support
+## 特别感谢！
 
-Thanks to Jellysquid and coderbot for creating the original mods. None of this would be possible without them.
-
-If you want to support the development of Periodic Table, be sure to support the developers of the original mods:
+Fabric版原作者 Jellysquid 和 coderbot 制作了原始版本！所以在支持他们之前，不妨先支持下他们
 
 Jellysquid: https://jellysquid.me/donate
 
 coderbot: https://www.patreon.com/coderbot 
-
-## Contact
-
-If you need to contact me, feel free to send me a private message on CurseForge 
-
-Or Message me on Discord. You can find me in many other Mod Servers.
