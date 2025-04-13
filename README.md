@@ -1,5 +1,4 @@
-## 注：由于原作者摆烂，新的更新已转移至![铷](https://i.mcmod.cn/class/cover/20220201/1643702568_10167_PHIt.jpg)
-https://github.com/Molarczsq/Rubidium-Also-needs-Chinese/
+## 注：由于原作者摆烂，请自行查找替代品
 请注意！
 
 # 1.16.5 镁的汉化
